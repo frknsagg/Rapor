@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rapor1_Abstract/1.0.0": {
+        "runtime": {
+          "Rapor1_Abstract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rapor1_Abstract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

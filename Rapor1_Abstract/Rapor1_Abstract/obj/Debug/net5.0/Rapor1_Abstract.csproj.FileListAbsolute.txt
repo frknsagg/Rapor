@@ -1,0 +1,16 @@
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.exe
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.deps.json
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.runtimeconfig.json
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.runtimeconfig.dev.json
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.dll
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\ref\Rapor1_Abstract.dll
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\bin\Debug\net5.0\Rapor1_Abstract.pdb
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.AssemblyInfo.cs
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.dll
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\ref\Rapor1_Abstract.dll
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.pdb
+C:\Users\furka\source\repos\Rapor1_Abstract\Rapor1_Abstract\obj\Debug\net5.0\Rapor1_Abstract.genruntimeconfig.cache
